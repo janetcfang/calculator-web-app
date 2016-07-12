@@ -1,3 +1,3 @@
 # Calculator web app
 - designed using webflow
-- scripted with javascript and jQuery
+- scripted with JavaScript and jQuery
